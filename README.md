@@ -1,4 +1,4 @@
-# Human Evaluation of Prompt Translations
+# Human Annotation of Prompt Translations
 
 ## Project Overview
 
