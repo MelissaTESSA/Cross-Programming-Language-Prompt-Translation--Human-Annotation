@@ -59,7 +59,7 @@ python3 human_eval.py
   - Faithfulness to the original prompt
   - Package existence
   - Overall quality
-- If a package is missing, specify the missing package(s) (comma-separated, no spaces).
+- If a package is hallucinated (doesn't exist in PyPI, npm, maven, ...) and ofc is not a standard library, specify the package(s) (comma-separated, no spaces).
 - Your progress is saved automatically after each prompt.
 - If you stop and restart the script, it will resume where you left off.
 
