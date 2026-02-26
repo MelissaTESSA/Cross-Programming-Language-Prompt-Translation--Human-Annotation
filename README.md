@@ -77,8 +77,8 @@ python3 human_eval.py
 
 - The Python repository collected from the literature may occasionally contain prompts that involve other programming languages, especially in the Stack Overflow subset. This is expected and does not necessarily indicate an error.
 
-- In some cases, particularly for prompts involving packages, the mentioned package may refer to a broader ecosystem, framework, or tool rather than a precise standalone library. Please be understanding when evaluating such cases. Most importantly, the goal of this evaluation is to assess whether the translated prompt preserves the same task and intent, not whether it is a literal, word-for-word translation of the original Python prompt. A faithful adaptation that achieves the same objective in the target language is what matters most.
-
+- In some cases, particularly for prompts involving packages, the mentioned package may refer to a broader ecosystem, framework, or tool rather than a precise standalone library. Additionally, some packages may not have a direct equivalent in the target language. Please be understanding when evaluating such cases. Most importantly, the goal of this evaluation is to assess whether the translated prompt preserves the same task and intent, not whether it is a literal, word-for-word translation of the original Python prompt. A faithful adaptation that achieves the same objective in the target language is what matters most.
+  
 ## Notes
 
 - All paths are relative; you do not need to change any code or paths.
