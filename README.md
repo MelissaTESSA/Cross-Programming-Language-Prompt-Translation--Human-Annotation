@@ -71,7 +71,12 @@ python3 human_eval.py
 
 ### 5. Submitting Your Results
 
-It will start with JavaScript Dataset, PLEASE, when you are done with this one, send it to me. When you have finished your evaluation, **send me back the entire `results/` directory** (or just the `.json` files inside). 
+## Notes
+-It will start with JavaScript Dataset, PLEASE, when you are done with this one, send it to me. When you have finished your evaluation, **send me back the entire `results/` directory** (or just the `.json` files inside). 
+-The Python repository collected from the literature may occasionally contain prompts that involve other programming languages, especially in the Stack Overflow subset. This is expected and does not necessarily indicate an error.
+-In some cases, particularly for prompts involving packages, the mentioned package may refer to a broader ecosystem, framework, or tool rather than a precise standalone library. Please be understanding when evaluating such cases.
+
+Most importantly, the goal of this evaluation is to assess whether the translated prompt preserves the same task and intent, not whether it is a literal, word-for-word translation of the original Python prompt. A faithful adaptation that achieves the same objective in the target language is what matters most.
 
 ## Notes
 
