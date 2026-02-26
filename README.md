@@ -71,11 +71,9 @@ python3 human_eval.py
 
 ### 5. Submitting Your Results
 
--It will start with JavaScript Dataset, PLEASE, when you are done with this one, send it to me. When you have finished your evaluation, **send me back the entire `results/` directory** (or just the `.json` files inside). 
+- The evaluation will start with the JavaScript dataset. Once you finish this dataset, please send it to me. After completing the full evaluation, please send back the entire `results/` directory (or at least all the generated `.json` files).
 
 ## Additional Clarifications
-
-- The evaluation will start with the JavaScript dataset. Once you finish this dataset, please send it to me. After completing the full evaluation, please send back the entire `results/` directory (or at least all the generated `.json` files).
 
 - The Python repository collected from the literature may occasionally contain prompts that involve other programming languages, especially in the Stack Overflow subset. This is expected and does not necessarily indicate an error.
 
